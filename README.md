@@ -13,6 +13,6 @@ Visualization 1: Revenue comparison for the existing customers for all the three
 
 Visualization 2: Total customers for the years 2015, 2016 and 2017
 
-![v2](visualization/v2.png)
+![v2](visualization/v2.PNG)
 
 
